@@ -50,7 +50,7 @@ public class App {
 		output("Thank God it's " + weekday );
 		output("Tag im Monat: " + today.getDayOfMonth());
 		
-		output("---------- Zeit / outputn --------------------");
+		output("---------- Zeit / output --------------------");
 		
 		LocalTime justNow = LocalTime.now();
 		output("Jetzt: " + justNow );
